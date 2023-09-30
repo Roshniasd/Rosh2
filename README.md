@@ -1,5 +1,4 @@
 Real Time Operating System Lessons using Arduino and The FreeRTOS Kernel
-
 learning
 arduino
 examples
